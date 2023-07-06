@@ -5,4 +5,5 @@ Friction stir welding (FSW) is a widely used technique in the manufacturing indu
 Follow the below steps to complete the project:
 
 1.Make the necessary imports.
+
 2.Read the data into the data frame and get the shape of the data.

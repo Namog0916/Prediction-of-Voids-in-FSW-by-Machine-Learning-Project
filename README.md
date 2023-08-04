@@ -1,5 +1,5 @@
+![image](https://github.com/Namog0916/Prediction-of-Voids-in-FSW-by-Machine-Learning-Project/assets/126410835/071f4465-e3eb-48ab-a033-d5aa22a3c162)
 
-![download](https://github.com/Namog0916/Prediction-of-Voids-in-FSW-by-Machine-Learning-Project/assets/126410835/b4a7cdf7-d146-481a-99f4-42dbf60bff19)
 
  PREDICTION OF VOIDS IN FSW BY ML
 

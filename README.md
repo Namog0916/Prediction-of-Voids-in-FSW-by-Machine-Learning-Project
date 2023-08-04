@@ -1,4 +1,4 @@
-![image](https://github.com/Namog0916/Prediction-of-Voids-in-FSW-by-Machine-Learning-Project/assets/126410835/38c347f3-7146-45d2-bb71-abb4493ed51f)
+<img src="[https://i.imgur.com/ZWnhY9T.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.grenzebach.com%2Fen%2Fproducts%2Ffriction-stir-welding%2F&psig=AOvVaw34gEnHGlwRdrIGPw_w6ios&ust=1691227861602000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjMwPjYwoADFQAAAAAdAAAAABAE)" width=50% height=50%>
 
 
 

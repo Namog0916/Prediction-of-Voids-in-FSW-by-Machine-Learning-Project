@@ -1,4 +1,5 @@
-<img src=""C:\Users\gupta\OneDrive\Desktop\asb1017stir1.jpg" alt="Sample Image" width="300">
+<img src="[https://example.com/image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.assemblymag.com%2Farticles%2F94007-friction-stir-welding-expands-its-reach&psig=AOvVaw08IPhiP_6V9Y5uWz-Fkr_w&ust=1693587853705000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCJD3r-Swh4EDFQAAAAAdAAAAABAI)" alt="Sample Image" width="300">
+
 
 PREDICTION OF VOIDS IN FSW BY ML
 Friction stir welding (FSW) is a widely used technique in the manufacturing industry for joining materials with high strength and durability. However, the presence of voids in FSW can compromise the quality and integrity of the welds. This project aims to develop a machine learning model that can accurately predict the presence of voids in FSW, allowing for early detection and preventive measures.

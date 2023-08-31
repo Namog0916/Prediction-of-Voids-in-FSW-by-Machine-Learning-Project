@@ -22,6 +22,6 @@ __work Flow of Project:__
 
 8.We apply train test split to avoid overfitting.
 
-9. we compare different different model score, models like logistic regressin, Decision tree, RandomForest classifier.
+9.we compare different different model score, models like logistic regressin, Decision tree, RandomForest classifier.
 
-10. we also make this model for metallographic features and check results of above models which is based on feature selection.
+10.we also make this model for metallographic features and check results of above models which is based on feature selection.

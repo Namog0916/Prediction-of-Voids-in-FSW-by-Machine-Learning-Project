@@ -1,4 +1,4 @@
-<img src="[https://example.com/image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.assemblymag.com%2Farticles%2F94007-friction-stir-welding-expands-its-reach&psig=AOvVaw08IPhiP_6V9Y5uWz-Fkr_w&ust=1693587853705000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCJD3r-Swh4EDFQAAAAAdAAAAABAI)" alt="Sample Image" width="300">
+![image](https://github.com/Namog0916/Prediction-of-Voids-in-FSW-by-Machine-Learning-Project/assets/126410835/7c5b3475-00c1-4665-8527-9c46155c9b3f)
 
 
 PREDICTION OF VOIDS IN FSW BY ML
